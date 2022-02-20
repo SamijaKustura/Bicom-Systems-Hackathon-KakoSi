@@ -1,0 +1,156 @@
+.btnopustanje
+{
+	border: 1px solid white;
+	border-radius: 30%;
+	height: 50px;
+	width: 35%;
+	background-color: transparent;
+	margin-top: 5%;
+}
+
+.vjezbe h1{
+	margin-left: 2%;
+    padding-top: 1%;
+
+}
+
+.opustanjeNova
+{
+    background-color: #d4afb9;
+    color: white;
+
+}
+.opustanjeNova h1{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+.opustanjeNova{
+    margin: 5%;
+}
+.slikaRel
+{
+    width: 30%;
+    height: 50%;
+}
+.nekaKlasa{
+    display: inline-block;
+}
+.nekaKlasa p{
+    font-size: larger;
+    margin-bottom: 1%;
+}
+
+.clanakNovi{
+    margin: 5%;
+    width: 92%;
+	text-align: justify;
+}
+.dvijeslike{
+    display: inline-flex;
+    text-align: center;
+}
+.dvijeslike img{
+    margin-left: 10%;
+    
+    height: 400px;
+    width: 100%;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    margin: 1%;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: Verdana, sans-serif;
+	  
+}
+/*Sunita*/
+.zaglavlje{
+	width: 100%;
+	height: 15%;
+    margin-top: 1%;
+	background:#eeeeee;
+	padding-top: 0.5%;
+    bottom:0 !important;
+}
+.ikonice{
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+.ikonice ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.ikonice ul li{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin: 0px 10px;
+	border-radius: 100%;
+	background:#7DCEA0; 
+}
+.ikonice ul li a{
+	text-decoration: none;
+	color: #272727;
+	font-size: 25px;
+	display: block;
+}
+.ikonice ul li a i{
+	line-height: 50px;
+}
+.ikonice ul li:hover{
+	background: #e67e22;
+}
+.ikonice ul li a:hover >i{
+	transform: scale(1.6) rotate(25deg);
+}
+.dno{
+	width: 100%;
+	height: auto;
+	margin: auto;
+	margin-top: 25px;
+}
+.dno ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+.dno ul li{
+	display: inline-block;
+	margin: 10px 20px;	 
+}
+.dno ul li a{
+	text-decoration: none;
+	outline: none;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	
+}
+.dno ul li a:hover{
+	color:  #e67e22;
+}	
+.dno ul li{
+	padding: 0px ;
+}
+.dno ul li{
+	margin: 5px 20px;
+}
+.ikonice ul li a i {
+    line-height: 38px;
+}
+.ikonice ul li{
+width: 40px;
+    height: 40px;
+}

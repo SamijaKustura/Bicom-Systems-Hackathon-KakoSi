@@ -1,0 +1,98 @@
+     .zaglavlje {
+        width: 100%;
+        height: auto;
+        margin: auto;
+        background: #c7d3ce;
+        padding: 20px 0px;
+        bottom:0;
+    }
+
+    .ikonice {
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
+
+    .ikonice ul {
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .ikonice ul li {
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        margin: 0px 10px;
+        border-radius: 100%;
+        background: #7DCEA0;
+    }
+
+    .ikonice ul li a {
+        text-decoration: none;
+        color: #272727;
+        font-size: 25px;
+        display: block;
+    }
+
+    .ikonice ul li a i {
+        line-height: 50px;
+    }
+
+    .ikonice ul li:hover {
+        background: #e67e22;
+    }
+
+    .ikonice ul li a:hover>i {
+        transform: scale(1.6) rotate(25deg);
+    }
+
+    .dno {
+        width: 100%;
+        height: auto;
+        margin: auto;
+        margin-top: 25px;
+    }
+
+    .dno ul {
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+    }
+
+    .dno ul li {
+        display: inline-block;
+        margin: 10px 20px;
+    }
+
+    .dno ul li a {
+        text-decoration: none;
+        outline: none;
+        font-family: 'Roboto Slab', serif;
+        font-size: 20px;
+        color: #fff;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    .dno ul li a:hover {
+        color: #e67e22;
+    }
+
+    .dno ul li {
+        padding: 0px;
+    }
+
+    .dno ul li {
+        margin: 5px 20px;
+    }
+
+    .ikonice ul li a i {
+        line-height: 38px;
+    }
+
+    .ikonice ul li {
+        width: 40px;
+        height: 40px;
+    }
